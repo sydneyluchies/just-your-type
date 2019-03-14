@@ -1,0 +1,34 @@
+html {
+  background-color: black;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.dreams {
+  background-color: white;
+}
+
+p {
+  margin: 0;
+}
+
+.fears {
+  color: white;
+}
+
+.dreams b {
+  color: red;
+  font-family: 'Courgette', cursive;
+}
+
+main {
+  margin: auto;
+  width: 50%;
+  border: 3px solid white;
+  padding: 10px;
+
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
